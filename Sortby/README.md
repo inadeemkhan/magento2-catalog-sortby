@@ -58,4 +58,4 @@ ________________________________________________________________________________
 </table>
 
 ___________________________________________________________________________________________________
-### Feedback and Support <a href="mailto:support@thecodingtutor.com">support@thecodingtutor.com</a>
+<!-- ### Feedback and Support <a href="mailto:support@thecodingtutor.com">support@thecodingtutor.com</a> -->
