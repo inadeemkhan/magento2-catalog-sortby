@@ -11,7 +11,7 @@ Free Magento 2 extension To sort product by Popularity & Rating | Nadeem Khan
 
 # Installation Instruction
 
-* Copy the content of the repo to the <b>app/code/Hyper/Auth/</b> folder
+* Copy the content of the repo to the <b>app/code/Magelumen/Sortby/</b> folder
 * Run command:
 <b>php bin/magento setup:upgrade</b>
 * Run Command:
